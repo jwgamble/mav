@@ -4,6 +4,8 @@
 # threading.py - Threads in Python.
 # ****************************************************
 # Threads are easy to get subtly wrong.
+# You can find more information on threading at: 
+# https://docs.python.org/2/library/threading.html
 
 # Library imports
 # ===============
